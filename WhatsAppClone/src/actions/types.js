@@ -1,0 +1,17 @@
+export const MODIFICA_NOME = 'modifica_nome';
+export const MODIFICA_SENHA = 'modifica_senha';
+export const MODIFICA_EMAIL = 'modifica_email';
+export const CADASTRO_SUCESSO = 'cadastro_sucesso';
+export const CADASTRO_ERRO = 'cadastro_erro';
+export const LOGIN_SUCESSO = 'login_sucesso';
+export const LOGIN_ERRO = 'login_erro';
+export const LOGIN_EM_ANDAMENTO = 'login_em_andamento';
+export const CADASTRO_EM_ANDAMENTO = 'cadastro_em_andamento';
+export const MODIFICA_ADICIONA_CONTATO_EMAIL = 'modifica_adiciona_contato_email';
+export const ADICIONA_CONTATO_ERRO = 'adiciona_contato_erro';
+export const ADICIONA_CONTATO_SUCESSO = 'adiciona_contato_sucesso';
+export const LISTA_CONTATOS = 'lista_contatos';
+export const MODIFICA_MENSAGEM = 'modifica_mensagem';
+export const LISTA_CONVERSA_USUARIO = 'lista_conversa_usuario';
+export const LISTA_CONVERSAS_USUARIO = 'lista_conversas_usuario';
+export const ENVIA_MENSAGEM_SUCESSO = 'envia_mensagem_sucesso';
