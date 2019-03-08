@@ -5,7 +5,7 @@ import firebase from 'react-native-firebase';
 export default class FormLogin extends Component {
   constructor(props) {
     super(props);
-    this.state = { email: 'joao@gmail.com', password: '123456', err: '' };
+    this.state = { email: '', password: '', err: '' };
   }
 
   authenticate = () => {
