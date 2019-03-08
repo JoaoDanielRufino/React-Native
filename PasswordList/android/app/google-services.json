@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "391732341511",
+    "firebase_url": "https://password-list-5c81a.firebaseio.com",
+    "project_id": "password-list-5c81a",
+    "storage_bucket": "password-list-5c81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391732341511:android:6e0447f4619567d8",
+        "android_client_info": {
+          "package_name": "com.passwordlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391732341511-78qlunv2lof2j6q3oagrhkklm6vk2qfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6k_mK3wDYXxUe62VwlJhaGlaVAnk3ewM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
